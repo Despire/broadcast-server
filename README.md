@@ -1,2 +1,2 @@
 # broadcast-server
-A simply server broadcasting client messages to all other clients
+A simple server, broadcasting client messages to  other clients
